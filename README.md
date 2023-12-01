@@ -28,15 +28,15 @@ An example could be that a pharmacy identifies some of their dispensings of a sp
 The goal of this project is to evaluate if a significant difference exists between Idaho and the nation with Medicaid reimbursements. 
 The following objectives will meet this goal:
 -	Acquire the datasets. Download the datasets from Medicaid.gov and load them into a Jupyter Notebook.
-o	Deliverable: Raw datasets downloaded into local files.
+ - 	Deliverable: Raw datasets downloaded into local files.
 -	Clean the datasets. Review and prepare the datasets for exploration within the Jupyter Notebook.
-o	Deliverable: Loaded and cleaned data.
+ - 	Deliverable: Loaded and cleaned data.
 -	Explore the datasets. Transform the data into information and perform statistical calculations.
-o	Deliverable: Explored data.
+ - 	Deliverable: Explored data.
 -	Compare the z-scores of reimbursements among the states. Evaluate the calculated statistics to evaluate the hypothesis.
-o	Deliverable: Analyzed data with statistical significance calculated.
+ - 	Deliverable: Analyzed data with statistical significance calculated.
 -	Finalize a report of the findings. Report conclusions based on the insights found in the exploration of the dataset.
-o	Deliverable: Written report of conclusions.
+ - 	Deliverable: Written report of conclusions.
 ## B2. Scope of the Project
 The scope of the project will include analysis and visualizations using Python in a Jupyter Notebook with two CSV datasets as input. The input will be used to calculate statistical significance using a Z-score test for the state of Idaho. The datasets are aggregated from sources in 2022 and will compare 1st quarter data. This project will not find a statistical significance for other states or other years as that falls outside the scope. 
 Specifically, this project will include an evaluation of the dataset filtered to explore the reimbursement rates of countable drugs within the 1st quarter of 2022 for the state of Idaho and the nation, subset by branded and generic drugs to find a statistical significance. This project will not explore any statistical significance for other states or any other subsets of drugs.
