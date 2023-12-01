@@ -48,12 +48,13 @@ This project will use the CRISP-DM (Cross-Industry Standard Process for Data Min
 -	Evaluation: This step will evaluate the analysis for statistical significance with a Z-score test
 -	Deployment: This step will ensure that the functions can be useful on similar datasets provided by Medicaid to evaluate other years.
 ## B4. Timeline for Milestones
-Milestone	Duration	Start	End
-Acquire Data	1 day	11/23	11/24
-Clean Data	1 day	11/24	11/25
-Explore Data	1 day	11/25	11/26
-Analyze Data	2 days	11/26	11/27
-Finalize Report	1 day	11/27	11/28
+| Milestone	| Duration	| Start | End | 
+| --- | --- | --- | --- |
+| Acquire Data	| 1 day	| 11/23	| 11/24 | 
+| Clean Data	| 1 day	| 11/24	| 11/25 | 
+| Explore Data	| 1 day	| 11/25	| 11/26 | 
+| Analyze Data	| 2 days	| 11/26	| 11/27 | 
+| Finalize Report	| 1 day	| 11/27	| 11/28 | 
 
 ## B5. Resources and Associated Costs
 1.	PC: $1000
