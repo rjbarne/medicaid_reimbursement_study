@@ -1,6 +1,3 @@
-# dmda-capstone
-Capstone project for BS DMDA program utilizing a variety of skills acquired during the program.
-
 # Determining Unfairness in Medicaid Reimbursement Rates
 # Between Idaho and the Nation
 By Robert Barnett
